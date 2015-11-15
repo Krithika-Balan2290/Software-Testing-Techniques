@@ -1,8 +1,8 @@
 #Software Testing Methodologies
 
-##Black Box Testing
-
 ##White Box Testing
+
+##Black Box Testing
 
 ##Gray Box Testing
 
