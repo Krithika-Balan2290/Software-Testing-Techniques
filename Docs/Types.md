@@ -1,10 +1,10 @@
 #Software Testing Methodologies
 
-#Black Box Testing
+##Black Box Testing
 
-#White Box Testing
+##White Box Testing
 
-#Gray Box Testing
+##Gray Box Testing
 
 [Prev Page]() | [Next Page]()
  
