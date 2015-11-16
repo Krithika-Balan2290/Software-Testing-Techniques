@@ -2,12 +2,15 @@
 
  Code coverage is used to describe the degree to which the code of a program is tested by a particular test case. A program with high code coverage has been more thoroughly tested and has a lower chance of containing software bugs than a program with low code coverage. Different metrics can be used to calculate code coverage; some of the most basic are the percent of program subroutines and the percent of program statements called during execution of the test suite.
 To measure what percentage of code has been tested by a code coverage test case, one or more coverage criteria are used. Coverage criteria is usually defined as a rule or requirement, which test cases need to satisfy.
-Basic Coverage criteria:
-Function coverage - Has each function in the program been called?
-Statement coverage - Has each statement in the program been executed?
-Branch coverage - Has each branch of each control structure (such as in if and case statements) been executed? 
-Condition coverage (or predicate coverage) - Has each Boolean sub-expression evaluated both to true and false?
+
+#######Basic Coverage criteria:
+- Function coverage - Has each function in the program been called?
+- Statement coverage - Has each statement in the program been executed?
+- Branch coverage - Has each branch of each control structure (such as in if and case statements) been executed? 
+- Condition coverage (or predicate coverage) - Has each Boolean sub-expression evaluated both to true and false?
 let us explain these conditions with an example:
+
+```
 int example (int a, int b)
 {
     int c = 0;
@@ -17,6 +20,8 @@ int example (int a, int b)
     }
     return a;
 }
+
+```
 
 If during this execution function 'example’' was called at least once, then function coverage for this function is satisfied.
 Statement coverage for this function will be satisfied if it was called e.g. as example(10,15), as in this case, every line in the function is executed including c = a;.
