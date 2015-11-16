@@ -43,7 +43,7 @@
   
   4.8. [Cause–effect graph](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graph.md)
   
-  4.9. [Error guessing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/error.md)
+  4.9. [Error guessing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graph.md)
   
 5. [Gray Box Software Testing Techniques](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graybox.md)
 
