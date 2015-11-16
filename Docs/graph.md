@@ -14,6 +14,6 @@ One technique of software testing is Error Guessing which is employed by very ex
 The success of Error guessing depends on the skill of the tester. The better the tester, the more likely they are to guess where the errors can be found. Error guessing technique can be very effective when applied after more formal techniques have already been used. While using the more formal techniques of system testing, the tester gains a better understanding of the system that is being tested. Then, the tester becomes better at guessing where the more hidden errors can be found. The tester can then list all the possible things that can go wrong with the system and then build test cases around these potential failures.
 
 
-[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/boundary.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graybox.md)
+[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/boundary.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/References.md)
  
  [Back to contents](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Index.md)
