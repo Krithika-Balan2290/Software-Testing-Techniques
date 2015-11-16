@@ -21,10 +21,6 @@
   
   3.3. [Fault Injection](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/fault.md)
   
-  3.4. [Mutation Testing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/mutation.md)
-  
-  3.5. [Static Testing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/static.md)
-  
 4. [Black Box Software Testing Techniques](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/blackbox.md)
 
   4.1. [Monkey Testing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/blackbox.md)
@@ -45,10 +41,4 @@
   
   4.9. [Error guessing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graph.md)
   
-5. [Gray Box Software Testing Techniques](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graybox.md)
-
-  5.1. [Regression Testing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graybox.md)
-  
-  5.2. [Orthogonal Array Testing](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/array.md)
-  
-6. [References](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/References.md)
+5. [References](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/References.md)
