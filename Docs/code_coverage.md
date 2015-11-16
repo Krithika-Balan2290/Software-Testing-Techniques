@@ -3,7 +3,7 @@
  Code coverage is used to describe the degree to which the code of a program is tested by a particular test case. A program with high code coverage has been more thoroughly tested and has a lower chance of containing software bugs than a program with low code coverage. Different metrics can be used to calculate code coverage; some of the most basic are the percent of program subroutines and the percent of program statements called during execution of the test suite.
 To measure what percentage of code has been tested by a code coverage test case, one or more coverage criteria are used. Coverage criteria is usually defined as a rule or requirement, which test cases need to satisfy.
 
-#######Basic Coverage criteria:
+######Basic Coverage criteria:
 - Function coverage - Has each function in the program been called?
 - Statement coverage - Has each statement in the program been executed?
 - Branch coverage - Has each branch of each control structure (such as in if and case statements) been executed? 
@@ -24,9 +24,12 @@ int example (int a, int b)
 ```
 
 If during this execution function 'example’' was called at least once, then function coverage for this function is satisfied.
-Statement coverage for this function will be satisfied if it was called e.g. as example(10,15), as in this case, every line in the function is executed including c = a;.
-Tests calling example(1,1) and example(0,1) will satisfy branch coverage because, in the first case, the 2 if conditions are met and c = a; is executed, while in the second case, the first condition (a>0) is not satisfied, which prevents executing c = a;.
+Statement coverage for this function will be satisfied if it was called e.g. as example(10,15), as in this case, every line in the function is executed including c = a;
+
+Tests calling example(1,1) and example(0,1) will satisfy branch coverage because, in the first case, the 2 if conditions are met and c = a; is executed, while in the second case, the first condition (a>0) is not satisfied, which prevents executing   c = a;
+
 Condition coverage can be satisfied with tests that call example(1,1), example(1,0) and example(0,0). These are necessary because in the first two cases, (a>0)evaluates to true, while in the third, it evaluates false. At the same time, the first case makes (b>0) true, while the second and third make it false.
+
 Condition coverage does not necessarily mean that all branches are covered. For example, consider the following fragment of code:
 
 ```
