@@ -22,6 +22,6 @@ Runtime injection techniques can use a number of different techniques to insert 
 These techniques are often based around the debugging facilities provided by computer processor architectures.
 
 
-[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/code_coverage.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/mutation.md)
+[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/code_coverage.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/blackbox.md)
  
  [Back to contents](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Index.md)
