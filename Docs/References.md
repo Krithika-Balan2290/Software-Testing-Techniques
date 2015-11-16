@@ -17,6 +17,6 @@
 15. https://en.wikipedia.org/wiki/Error_guessing
 16. http://istqbexamcertification.com/what-is-error-guessing-in-software-testing/
 
-[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/array.md)
+[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/error.md)
  
  [Back to contents](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Index.md)
