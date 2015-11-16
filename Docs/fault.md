@@ -14,7 +14,7 @@ A refinement of code mutation is Code Insertion Fault Injection which adds code,
  
    - Time Based triggers: When the timer reaches a specified time an interrupt is generated and the interrupt handler associated with the timer can inject the fault
    - Interrupt Based Triggers: Hardware exceptions and software trap mechanisms are used to generate an interrupt at a specific place in the system code or on a particular event within the system, for instance access to a specific memory location.
-   - 
+
 Runtime injection techniques can use a number of different techniques to insert faults into a system via a trigger.
 - Corruption of memory space: This technique consists of corrupting RAM, processor registers, and I/O map.
 - Syscall interposition techniques: This is concerned with the fault propagation from operating system kernel interfaces to executing systems software. This is done by intercepting operating system calls made by user-level software and injecting faults into them.
