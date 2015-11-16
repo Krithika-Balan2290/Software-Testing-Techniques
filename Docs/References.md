@@ -16,6 +16,14 @@
 14. http://www.softwaretestinghelp.com/cause-and-effect-graph-test-case-writing-technique/
 15. https://en.wikipedia.org/wiki/Error_guessing
 16. http://istqbexamcertification.com/what-is-error-guessing-in-software-testing/
+17. http://softwaretestingfundamentals.com/black-box-testing/
+18. http://softwaretestingfundamentals.com/white-box-testing/
+19. http://softwaretestingfundamentals.com/gray-box-testing/
+20. http://istqbexamcertification.com/what-is-static-testing/
+21. https://en.wikipedia.org/wiki/Fault_injection
+22. https://en.wikipedia.org/wiki/Mutation_testing
+23. http://softwaretestingfundamentals.com/
+
 
 [Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/graph.md)
  
