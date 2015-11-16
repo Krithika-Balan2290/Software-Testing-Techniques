@@ -39,6 +39,6 @@ This type of Monkey testing has the highest IQ level of the tester monkey. Simil
 
 This type of Monkey testing has the highest IQ level of the tester monkey. The inputs are generated without any regard to the usage statistics and hence, this method of testing is very random.
 
-[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/static.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/fuzz.md)
+[Prev Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/fault.md) | [Next Page](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Docs/fuzz.md)
  
  [Back to contents](https://github.com/Krithika-Balan2290/Software-Testing-Techniques/blob/master/Index.md)
